@@ -1,0 +1,7 @@
+# Core dependencies, with loose lower bounds.
+# 01_update_environment.ipynb records the exact versions that last worked in requirements-lock.txt.
+pandas>=2.2
+requests>=2.31
+python-dotenv>=1.0
+ipykernel>=6.29
+# jupyterlab>=4.0   # optional: only if you use JupyterLab in a browser instead of VS Code
